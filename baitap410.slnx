@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="baitap410/baitap410.csproj" />
+  <Project Path="day3calculator/day3calculator.csproj" />
+  <Project Path="quanlysv/quanlysv.csproj" Id="0ad3b5af-05ec-460a-a87c-7202c795082a" />
 </Solution>
